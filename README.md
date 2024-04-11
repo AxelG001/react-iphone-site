@@ -1,8 +1,19 @@
-# React + Vite
+Ce dépôt contient le code d'un clone du site web de l'iPhone 15 Pro d'Apple, construit avec React.js et TailwindCSS.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+⚙️ Technologies
+React.js
+Three.js
+GSAP (Greensock)
+Tailwind CSS
 
-Currently, two official plugins are available:
+🔋 Fonctionnalités
+Animations fluides avec GSAP
+Rendu de modèles 3D avec différentes couleurs et tailles
+Carrousel vidéo personnalisé
+Complètement responsive
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Inspiré du projet GitHub suivant :
+https://github.com/adrianhajdin/iphone
+
+Par Javascript Mastery sur Youtube :
+https://www.youtube.com/watch?v=kRQbRAJ4-Fs&t=10998s
