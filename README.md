@@ -1,12 +1,12 @@
 Ce dépôt contient le code d'un clone du site web de l'iPhone 15 Pro d'Apple, construit avec React.js et TailwindCSS.
 
-⚙️ Technologies
+#⚙️ Technologies
 React.js
 Three.js
 GSAP (Greensock)
 Tailwind CSS
 
-🔋 Fonctionnalités
+#🔋 Fonctionnalités
 Animations fluides avec GSAP
 Rendu de modèles 3D avec différentes couleurs et tailles
 Carrousel vidéo personnalisé
